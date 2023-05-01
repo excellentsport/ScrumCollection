@@ -35,4 +35,11 @@ Requires Labview 2016 or greater.
   - Once the 20 seconds has elapsed, the signal will appear to become extremely noisy. This is due to the autoscaling feature on the graph - it is totally normal. This will also make it easier to detect any anomolous readings from outside sources.
   - Double click the number found in the "Mean Value for Last 20 sec" box to select, then hit "CTRL + C" to copy. Paste this value in as your output voltage to whatever spreadsheet you're using for the deadweight calibration.
 - Repeat the process for each load and each load cell.
- 
+
+## Author
+
+**George Beckham, PhD**  [GitHub](https://github.com/ExcellentSport), [Personal Website](https://www.georgebeckham.com)  
+
+## License
+
+Isometric Analyzer is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. Isometric Analyzer is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
